@@ -4,4 +4,6 @@ These kind of file are from IKAMA BANDUNG databases which its got from IKAMA BAN
 
 I was using Pandas, Numpy, and Matplotlib to cleaning the data and did some manipulation on it
 
+There are still an error on matplotlib, but it will be repeired
+
 thank you for your attention!!
